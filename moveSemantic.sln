@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "moveSemantic", "moveSemantic\moveSemantic.vcxproj", "{A7BD472F-8F77-4412-AA08-C697023C8D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BD472F-8F77-4412-AA08-C697023C8D18}.Debug|x64.ActiveCfg = Debug|x64
+		{A7BD472F-8F77-4412-AA08-C697023C8D18}.Debug|x64.Build.0 = Debug|x64
+		{A7BD472F-8F77-4412-AA08-C697023C8D18}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7BD472F-8F77-4412-AA08-C697023C8D18}.Debug|x86.Build.0 = Debug|Win32
+		{A7BD472F-8F77-4412-AA08-C697023C8D18}.Release|x64.ActiveCfg = Release|x64
+		{A7BD472F-8F77-4412-AA08-C697023C8D18}.Release|x64.Build.0 = Release|x64
+		{A7BD472F-8F77-4412-AA08-C697023C8D18}.Release|x86.ActiveCfg = Release|Win32
+		{A7BD472F-8F77-4412-AA08-C697023C8D18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {995EB312-4B30-410D-91D6-1A75D3CFA184}
+	EndGlobalSection
+EndGlobal
